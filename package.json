@@ -1,0 +1,27 @@
+{
+  "name": "ts-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoophi/ts-sandbox.git"
+  },
+  "keywords": [],
+  "author": "Pyunghyuk Yoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoophi/ts-sandbox/issues"
+  },
+  "homepage": "https://github.com/yoophi/ts-sandbox#readme",
+  "dependencies": {
+    "@types/node": "^18.7.6",
+    "typescript": "^4.7.4"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
